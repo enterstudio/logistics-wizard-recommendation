@@ -15,14 +15,14 @@
     "geopoint": "1.0.1"
   },
   "devDependencies": {
-    "async": "2.1.4",
+    "async": "2.3.0",
     "chai": "^3.5.0",
-    "cloudant": "1.6.2",
+    "cloudant": "1.7.1",
     "coveralls": "^2.11.15",
     "eslint": "^3.9.1",
-    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-promise": "^3.3.2",
     "eslint-plugin-react": "^6.6.0",
     "istanbul": "^0.4.5",
@@ -31,8 +31,8 @@
     "minami": "^1.1.1",
     "mocha": "^3.1.2",
     "mocha-lcov-reporter": "^1.2.0",
-    "nock": "9.0.2",
-    "webpack": "^1.13.3"
+    "nock": "9.0.13",
+    "webpack": "^2.4.1"
   },
   "engines": {
     "node": ">6.7.0"
